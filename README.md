@@ -59,6 +59,9 @@ The scraped data is exported to an Excel document with the following format:
   </tr>
 </table>
 
+## Example IMG
+![webscraping](https://github.com/Elchin-Novruzov/Python-Web-Scraping/assets/88887189/2ff5fe62-0897-4f79-9ebf-d54ac2e01931)
+
 
 ## Disclaimer
 
