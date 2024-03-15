@@ -17,7 +17,7 @@ To run the web scraper, follow these steps:
 
 1. Install the Beautiful Soup 4 library if you haven't already (see Prerequisites above).
 2. Clone or download this repository to your local machine.
-3. Navigate to the directory containing the `scraping_script.py` file.
+3. Navigate to the directory containing the `main.py` file.
 4. Open a terminal or command prompt in that directory.
 5. Run the script using the following command:
 
