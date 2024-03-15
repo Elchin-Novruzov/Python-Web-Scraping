@@ -58,3 +58,10 @@ The scraped data is exported to an Excel document with the following format:
     <td>...</td>
   </tr>
 </table>
+
+
+## Disclaimer
+
+This script is intended for educational purposes only. Make sure to respect the terms of service and usage policies of the website you are scraping. Scraping data from websites without permission may be against their terms of service and could potentially lead to legal issues.
+
+
