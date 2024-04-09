@@ -7,7 +7,7 @@ This Python project utilizes the Beautiful Soup 4 library for web scraping. It e
 Before running the script, make sure you have Python 3.x installed on your system. You'll also need to install the Beautiful Soup 4 library. You can do this via pip:
 
 ```
-pip install beautifulsoup4
+    pip install beautifulsoup4 xlsxwriter requests
 ```
 
 
